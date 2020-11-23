@@ -1,0 +1,3 @@
+﻿  UnitTest7.3(Iter).cpp
+Y:\Programming\Projects\Lab7.3(Iter)\Lab7.3(Iter)\Lab7.3(Iter).cpp(54,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  UnitTest7.3(Iter).vcxproj -> Y:\Programming\Projects\Lab7.3(Iter)\Debug\UnitTest7.3(Iter).dll
